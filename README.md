@@ -6,4 +6,5 @@ npm run dev
 #打包  
 npm run build  
 #github 地址  
-https://zhukangzhen.github.io/#/  
+https://zhukangzhen.github.io/#/    
+#github端出现加载不出图片现象，而文件夹dist目录下正常
