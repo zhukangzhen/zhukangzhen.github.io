@@ -1,0 +1,2 @@
+webpackJsonp([11],{UJdF:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("div",{staticClass:"pay-done-box"},[t("img",{attrs:{src:"static/img/pay-success.png"}})])])}]};var a=n("C7Lr")({name:"PayDone"},s,!1,function(e){n("ZPUx")},"data-v-40203346",null);t.default=a.exports},ZPUx:function(e,t){}});
+//# sourceMappingURL=11.7619055ff5a9ee27c352.js.map
